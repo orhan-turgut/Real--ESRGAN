@@ -4,6 +4,6 @@ gfpgan>=1.3.5
 numpy
 opencv-python
 Pillow
-torchvision==0.15
+torchvision
 torch
 tqdm
